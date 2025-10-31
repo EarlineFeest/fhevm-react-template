@@ -1,0 +1,25 @@
+{
+  "name": "fhevm-nodejs-example",
+  "version": "1.0.0",
+  "description": "Node.js CLI example using FHEVM SDK",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "encrypt": "node examples/encrypt.js",
+    "decrypt": "node examples/decrypt.js"
+  },
+  "keywords": [
+    "fhevm",
+    "nodejs",
+    "cli",
+    "encryption"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@fhevm/sdk": "file:../../packages/fhevm-sdk",
+    "ethers": "^6.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
