@@ -26,7 +26,7 @@ A framework-agnostic FHEVM SDK that makes building confidential frontends simple
 
 ## 🌐 Live Demo
 
-**Website:** [https://fhe-academic-review-system.vercel.app/](https://fhe-academic-review-system.vercel.app/)
+**Website:** [https://academic-review-system.vercel.app/](https://academic-review-system.vercel.app/)
 
 
 ## 🎬 Demo Video 
