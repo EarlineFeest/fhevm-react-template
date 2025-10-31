@@ -20,6 +20,19 @@ A framework-agnostic FHEVM SDK that makes building confidential frontends simple
 
 📘 **TypeScript Support** - Full type safety out of the box
 
+**Network**: Sepolia Testnet (Chain ID: 11155111)
+**Contract**: [0x90DD935d005781Fd7B20DE72dD04b9c1EB54E117]
+- **Sepolia Contract**: [0x90DD935d005781Fd7B20DE72dD04b9c1EB54E117](https://sepolia.etherscan.io/address/0x90DD935d005781Fd7B20DE72dD04b9c1EB54E117)
+
+## 🌐 Live Demo
+
+**Website:** [https://fhe-academic-review-system.vercel.app/](https://fhe-academic-review-system.vercel.app/)
+
+
+## 🎬 Demo Video 
+
+demo.mp4
+
 ## Quick Start
 
 ### Installation
